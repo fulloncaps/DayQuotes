@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DayQuotes</string>
+    <string name="convert_string">Convert</string>
+    <string name="dollars_hint">dollars</string>
+    <string name="no_value_string">No Value</string>
+    <string name="channel_name">Example Name</string>
+    <string name="channel_description">Example Description</string>
+</resources>
